@@ -1,0 +1,3 @@
+.*
+!/.gitignore
+*.blend[0-9]*
